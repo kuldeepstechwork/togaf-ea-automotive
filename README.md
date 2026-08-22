@@ -1,6 +1,6 @@
 # TOGAF Enterprise Architecture Case Study — Torvane Mobility Group
 
-**Disclaimer:** This repository is a fictional Enterprise Architecture case study created for portfolio and demonstration purposes. Torvane Mobility Group is an invented company — it is not a real organization, and nothing here describes, discloses, or is derived from the systems, data, or intellectual property of any real employer, client, or company, past or present. All figures, architectures, vendor comparisons, and cost estimates are illustrative, created for this exercise, and do not represent real financial or technical data. Any resemblance to actual companies, products, or systems is coincidental.
+**Disclaimer:** This is an illustrative TOGAF Enterprise Architecture case study modeling common, publicly known challenges in automotive OEM mobility platforms — not a real engagement. Torvane Mobility Group is an invented name, not affiliated with any real company, and nothing here is based on confidential information from any real employer or client. All figures, vendor names, and technical details are constructed for this exercise.
 
 ## Program Overview
 
@@ -28,3 +28,6 @@ Start with [TOGAF-ADM-MAPPING.md](./TOGAF-ADM-MAPPING.md) for a one-page index o
 ## How to Read This Repo
 
 Every document here is written in **decision voice, not build voice**. You will not find "we deployed a Kafka cluster" — you will find "we evaluated three integration patterns, selected an event-driven backbone, rejected point-to-point and shared-database integration for named reasons, and accepted a specific set of trade-offs in cost, timeline, and operational complexity, with sign-off required from the named governance body." That framing is deliberate: the deliverable of an Enterprise Architecture function is not code, it is a defensible decision with alternatives considered, trade-offs quantified, and stakeholders accountable for it. Figures throughout (costs, timelines, maturity scores, vendor ratings) are invented but held to a plausible, internally consistent standard — they exist to demonstrate the *reasoning method*, not to represent real financial data.
+
+---
+*Fictional case study — see disclaimer above for full context.*
