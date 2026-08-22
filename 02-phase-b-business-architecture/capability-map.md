@@ -29,9 +29,9 @@ quadrantChart
     title Capability Gap: As-Is vs Target Maturity
     x-axis Low Current Maturity --> High Current Maturity
     y-axis Low Priority Gap --> High Priority Gap
-    quadrant-1 Close Fast (High Gap, Some Foundation)
-    quadrant-2 Foundational Build (High Gap, Starting from Zero)
-    quadrant-3 Monitor Only (Low Gap, Already Mature)
+    quadrant-1 Close Fast
+    quadrant-2 Foundational Build
+    quadrant-3 Monitor Only
     quadrant-4 Incremental Improvement
     "Cross-Dealer Inventory Visibility": [0.35, 0.9]
     "Telemetry Ingestion": [0.3, 0.85]
