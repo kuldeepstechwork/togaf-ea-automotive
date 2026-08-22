@@ -52,10 +52,10 @@ Steady-state annual savings once the program completes: **$2,316,000/year**.
 
 ### Payback Period Calculation
 
-Using the incremental 3-year program cost over the As-Is baseline ($1,378,000) against the steady-state annual savings ($2,316,000/year) realized starting in Year 4:
+Using the incremental 3-year program cost over the As-Is baseline ($1,375,000 — i.e., $28,033,000 − $26,658,000) against the steady-state annual savings ($2,316,000/year) realized starting in Year 4:
 
 Payback period = Incremental program investment ÷ Annual steady-state savings
-Payback period = $1,378,000 ÷ $2,316,000/year ≈ **0.59 years (~7 months) after go-live**
+Payback period = $1,375,000 ÷ $2,316,000/year ≈ **0.59 years (~7 months) after go-live**
 
 Because savings only begin accruing at full run-rate after the final migration wave completes (end of Year 3, per the roadmap), the effective payback point relative to program start is approximately **Year 3, Month 7**.
 
@@ -77,7 +77,7 @@ Net Benefit = $3,257,000 (5-yr savings) + $5,400,000 − $900,000 (partial recap
 
 To avoid double-counting, the ROI is calculated directly from the 5-year TCO delta against the incremental 3-year investment:
 
-ROI = $3,257,000 ÷ $1,378,000 ≈ **236% over 5 years**, or roughly **47% annualized** over the 5-year horizon.
+ROI = $3,257,000 ÷ $1,375,000 ≈ **237% over 5 years**, or roughly **47% annualized** over the 5-year horizon.
 
 ## Risk-Adjusted View
 
