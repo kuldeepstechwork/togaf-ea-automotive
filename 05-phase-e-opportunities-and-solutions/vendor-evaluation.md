@@ -28,12 +28,12 @@ This evaluation covers the "Buy" solution building block identified as highest p
 
 | Vendor | Weighted Score (of 10) |
 |---|:---:|
-| **Vendor A — Meridian Drive Platform** | **7.30** |
-| Vendor B — Ferrous DMS Suite | 5.85 |
+| **Vendor A — Meridian Drive Platform** | **7.20** |
+| Vendor B — Ferrous DMS Suite | 5.65 |
 | Vendor C — Northlane Retail Cloud | 7.15 |
-| Vendor D — Cascade Dealer OS | 7.00 |
+| Vendor D — Cascade Dealer OS | 6.95 |
 
-Calculation shown for the winning vendor as an example: (8×0.20)+(8×0.15)+(7×0.15)+(8×0.15)+(6×0.15)+(6×0.10)+(6×0.05)+(7×0.05) = 1.60+1.20+1.05+1.20+0.90+0.60+0.30+0.35 = **7.30**.
+Calculation shown for the winning vendor as an example: (8×0.20)+(8×0.15)+(7×0.15)+(8×0.15)+(6×0.15)+(6×0.10)+(6×0.05)+(7×0.05) = 1.60+1.20+1.05+1.20+0.90+0.60+0.30+0.35 = **7.20**.
 
 ## Recommendation
 
@@ -42,7 +42,7 @@ Calculation shown for the winning vendor as an example: (8×0.20)+(8×0.15)+(7×
 ## Why the Runners-Up Lost
 
 - **Vendor C (Northlane Retail Cloud)** scored a very close second (7.15) and in fact edged out Vendor A on raw technical architecture criteria. It lost on **implementation track record** (a 4/10, the lowest score in that category across all vendors) — Northlane's largest existing deployment is roughly 80 dealers, well short of Torvane's 600-dealer, multi-country requirement, and the ARB judged the delivery risk of being Northlane's largest-ever implementation, on a program with a hard 3-year timeline, to be a risk not adequately compensated for by its architectural edge over Vendor A.
-- **Vendor D (Cascade Dealer OS)** was a credible, low-risk middle option (7.00) with the best TCO score, but its real-time API capability (7/10) and integration flexibility (7/10) were both a full point behind Vendor A's, and given those two criteria's combined 35% weight, the gap was enough to change the ranking. Cascade remains the documented fallback option should Vendor A contract negotiations fail.
+- **Vendor D (Cascade Dealer OS)** was a credible, low-risk middle option (6.95) with the best TCO score, but its real-time API capability (7/10) and integration flexibility (7/10) were both a full point behind Vendor A's, and given those two criteria's combined 35% weight, the gap was enough to change the ranking. Cascade remains the documented fallback option should Vendor A contract negotiations fail.
 - **Vendor B (Ferrous DMS Suite)** scored highest on domain fit and implementation track record — unsurprising given 20+ years of automotive DMS deployments — but its hybrid on-prem architecture and low event-API scores (4/10 on two of the three highest-weighted criteria) make it a poor architectural fit for a program whose entire premise is moving away from the batch/on-prem pattern Ferrous represents. Selecting Ferrous would have meant re-litigating Principle 8 (Cloud-Native by Default) for the single largest system in the program, which the ARB was not willing to do.
 
 ## Trade-offs Accepted With Vendor A
